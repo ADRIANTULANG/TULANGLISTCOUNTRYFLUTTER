@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "811327387843",
+    "firebase_url": "https://fir-crudapp-8cebd.firebaseio.com",
+    "project_id": "fir-crudapp-8cebd",
+    "storage_bucket": "fir-crudapp-8cebd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811327387843:android:53b116eb6bc22b81c64a76",
+        "android_client_info": {
+          "package_name": "com.example.firebase_database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811327387843-14hc04ek9gi4ckq50gf7174ri6jpi8oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3JSeYs2VgQIx-apna783sbIJ7NTNzakU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811327387843-14hc04ek9gi4ckq50gf7174ri6jpi8oj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811327387843:android:be1b75e42a061748c64a76",
+        "android_client_info": {
+          "package_name": "com.example.fluttertodoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811327387843-14hc04ek9gi4ckq50gf7174ri6jpi8oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3JSeYs2VgQIx-apna783sbIJ7NTNzakU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811327387843-14hc04ek9gi4ckq50gf7174ri6jpi8oj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811327387843:android:c24967ae76bde0d8c64a76",
+        "android_client_info": {
+          "package_name": "com.example.tulanglistcountries"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811327387843-14hc04ek9gi4ckq50gf7174ri6jpi8oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3JSeYs2VgQIx-apna783sbIJ7NTNzakU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811327387843-14hc04ek9gi4ckq50gf7174ri6jpi8oj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
